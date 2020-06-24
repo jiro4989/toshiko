@@ -1,0 +1,9 @@
+AudioStreamPlayerObj	toshiko/nodes/audio_stream_player.html#AudioStreamPlayerObj	audio_stream_player: AudioStreamPlayerObj	
+AudioStreamPlayerRef	toshiko/nodes/audio_stream_player.html#AudioStreamPlayerRef	audio_stream_player: AudioStreamPlayerRef	
+AudioStreamPlayer	toshiko/nodes/audio_stream_player.html#AudioStreamPlayer,string	audio_stream_player: AudioStreamPlayer(name: string = &quot;AudioStreamPlayer&quot;): AudioStreamPlayerRef	
+pause	toshiko/nodes/audio_stream_player.html#pause.e,AudioStreamPlayerRef	audio_stream_player: pause(self: AudioStreamPlayerRef)	
+play	toshiko/nodes/audio_stream_player.html#play.e,AudioStreamPlayerRef	audio_stream_player: play(self: AudioStreamPlayerRef)	
+resume	toshiko/nodes/audio_stream_player.html#resume.e,AudioStreamPlayerRef	audio_stream_player: resume(self: AudioStreamPlayerRef)	
+setStream	toshiko/nodes/audio_stream_player.html#setStream.e,AudioStreamPlayerRef,AudioStreamRef	audio_stream_player: setStream(self: AudioStreamPlayerRef; newstream: AudioStreamRef)	
+setStream	toshiko/nodes/audio_stream_player.html#setStream.e,AudioStreamPlayerRef,string	audio_stream_player: setStream(self: AudioStreamPlayerRef; newstream: string)	
+setVolume	toshiko/nodes/audio_stream_player.html#setVolume.e,AudioStreamPlayerRef,cint	audio_stream_player: setVolume(self: AudioStreamPlayerRef; value: cint)	

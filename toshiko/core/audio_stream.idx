@@ -1,0 +1,2 @@
+AudioStreamRef	toshiko/core/audio_stream.html#AudioStreamRef	audio_stream: AudioStreamRef	
+loadAudio	toshiko/core/audio_stream.html#loadAudio,cstring,bool	audio_stream: loadAudio(file: cstring; loop: bool = true): AudioStreamRef	
